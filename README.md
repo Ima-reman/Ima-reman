@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [anjimaremanan.vercel.app](anjimaremanan.vercel.app)
-
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **anjimaremanan@gmail.com**
